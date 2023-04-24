@@ -1,4 +1,4 @@
-package edu.dio.exercises.arrays;
+package edu.dio.exercises.java.basic.arrays;
 
 // Crie um vetor de 6 números inteiros e mostre-os na ordem inversa.
 

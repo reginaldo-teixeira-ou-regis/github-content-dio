@@ -1,4 +1,4 @@
-package edu.dio.exercises.arrays;
+package edu.dio.exercises.java.basic.arrays;
 
 import java.util.Scanner;
 

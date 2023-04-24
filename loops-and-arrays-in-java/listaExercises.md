@@ -1,5 +1,5 @@
 Estrutura de Repetição
-
+```js
 1. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
 2. Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
@@ -240,3 +240,4 @@ Estrutura de Repetição
 51. Faça um programa que mostre os n termos da Série a seguir:
   S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m. 
   Imprima no final a soma da série.
+```

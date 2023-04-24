@@ -1,6 +1,6 @@
 package edu.dio.exercises.java;
 
-public class Tests {
+public class TestsExercises {
   public static void main(String[] args) {
     
   }

@@ -4,18 +4,18 @@ package edu.dio.exercises.arrays;
 
 public class InverseOrder {
   public static void main(String[] args) {
-    int[] vetor = { -5, -6, 15, 50, 8, 4 };
+    int[] vector = { -5, -6, 15, 50, 8, 4 };
 
     System.out.print("Vetor: ");
     int count = 0;
-    while (count < (vetor.length)) {
-      System.out.print(vetor[count] + " ");
+    while (count < (vector.length)) {
+      System.out.print(vector[count] + " ");
       count++;
     }
 
     System.out.print("\nVetor: ");
-    for (int i = (vetor.length - 1); i >= 0; i--) {
-      System.out.print(vetor[i] + " ");
+    for (int i = (vector.length - 1); i >= 0; i--) {
+      System.out.print(vector[i] + " ");
     }
   }
 }

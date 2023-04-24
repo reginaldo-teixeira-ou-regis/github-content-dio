@@ -11,28 +11,29 @@ public class EvenAndOdd {
     Scanner scan = null;
     try {
       scan = new Scanner(System.in);
-      int quantNumeros;
-      int numero;
-      int quantPares = 0, quantImpares = 0;
+      int quantityNumbers;
+      int number;
+      int quantityEven = 0, quantityOdd  = 0;
 
       System.out.println("Quantidade de números: ");
-      quantNumeros = scan.nextInt();
+      quantityNumbers = scan.nextInt();
 
       int count = 0;
       do {
         System.out.println("Número: ");
-        numero = scan.nextInt();
+        number = scan.nextInt();
 
-        if (numero % 2 == 0)
-          quantPares++;
+        if (number % 2 == 0)
+          quantityEven++;
         else
-          quantImpares++;
+          quantityOdd ++;
 
         count++;
-      } while (count < quantNumeros);
+        
+      } while (count < quantityNumbers);
 
-      System.out.println("Quantidade Par: " + quantPares);
-      System.out.println("Quantidade Ímpar: " + quantImpares);
+      System.out.println("Quantidade Par: " + quantityEven);
+      System.out.println("Quantidade Ímpar: " + quantityOdd );
       
     } finally {
       if (scan != null) {

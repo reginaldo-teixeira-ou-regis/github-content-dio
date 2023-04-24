@@ -13,16 +13,16 @@ public class Factorial {
       scan = new Scanner(System.in);
 
       System.out.println("Fatorial: ");
-      int fatorial = scan.nextInt();
+      int factorial = scan.nextInt();
 
-      int multiplicacao = 1;
+      int multiplication = 1;
 
-      System.out.print(fatorial + "! = ");
-      for (int i = fatorial; i >= 1; i--) {
-        multiplicacao = multiplicacao * i;
+      System.out.print(factorial + "! = ");
+      for (int i = factorial; i >= 1; i--) {
+        multiplication = multiplication * i;
       }
 
-      System.out.println(multiplicacao);
+      System.out.println(multiplication);
       
     } finally {
       if (scan != null) {

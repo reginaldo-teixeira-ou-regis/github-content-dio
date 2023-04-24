@@ -11,34 +11,34 @@ public class Consonants {
     try {
       scan = new Scanner(System.in);
 
-      String[] consoantes = new String[6];
-      int quantidadeConsoantes = 0;
+      String[] consonants = new String[6];
+      int quantityConsonants = 0;
 
       int count = 0;
       do {
         System.out.println("Letra: ");
-        String letra = scan.next();
+        String letter = scan.next();
 
-        if (!(letra.equalsIgnoreCase("a") |
-            letra.equalsIgnoreCase("e") |
-            letra.equalsIgnoreCase("i") |
-            letra.equalsIgnoreCase("o") |
-            letra.equalsIgnoreCase("u"))) {
-          consoantes[count] = letra;
-          quantidadeConsoantes++;
+        if (!(letter.equalsIgnoreCase("a") |
+            letter.equalsIgnoreCase("e") |
+            letter.equalsIgnoreCase("i") |
+            letter.equalsIgnoreCase("o") |
+            letter.equalsIgnoreCase("u"))) {
+          consonants[count] = letter;
+          quantityConsonants++;
         }
 
         count++;
 
-      } while (count < consoantes.length);
+      } while (count < consonants.length);
 
-      System.out.print("Consoantes: ");
-      for (String consoante : consoantes) {
-        if (consoante != null)
-          System.out.print(consoante + " ");
+      System.out.print("\nConsoantes: ");
+      for (String consonant : consonants) {
+        if (consonant != null)
+          System.out.print(consonant + " ");
       }
       
-      System.out.println("Quantidade de consoantes: " + quantidadeConsoantes);
+      System.out.println("\nQuantidade de consoantes: " + quantityConsonants);
 
     } finally {
       if (scan != null) {

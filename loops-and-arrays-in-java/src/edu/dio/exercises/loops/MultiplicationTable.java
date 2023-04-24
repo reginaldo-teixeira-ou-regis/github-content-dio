@@ -20,16 +20,16 @@ public class MultiplicationTable {
       scan = new Scanner(System.in);
 
       System.out.println("Tabuada: ");
-      int tabuada = scan.nextInt();
+      int multiplicationTable = scan.nextInt();
 
-      while (tabuada < 1 | tabuada > 10) {
+      while (multiplicationTable < 1 | multiplicationTable > 10) {
         System.out.println("Numero Inválido! Digite um numero entre 1 a 10: ");
-        tabuada = scan.nextInt();
+        multiplicationTable = scan.nextInt();
       }
 
-      System.out.println("Tabuada de " + tabuada);
+      System.out.println("Tabuada de " + multiplicationTable);
       for (int i = 1; i <= 10; i = i + 1) {
-        System.out.println(tabuada + " X " + i + " = " + (tabuada * i));
+        System.out.println(multiplicationTable + " X " + i + " = " + (multiplicationTable * i));
       }
     } finally {
       if (scan != null) {

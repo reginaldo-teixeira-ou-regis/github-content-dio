@@ -12,17 +12,17 @@ public class NoteFrom0To10 {
     try {
       scan = new Scanner(System.in);
 
-      int nota;
+      int note;
 
       System.out.println("Nota: ");
-      nota = scan.nextInt();
+      note = scan.nextInt();
 
-      while (nota < 0 | nota > 10) {
+      while (note < 0 | note > 10) {
         System.out.println("Nota Inválida! Digite novamente: ");
-        nota = scan.nextInt();
+        note = scan.nextInt();
       }
 
-      System.out.println("Nota: " + nota);
+      System.out.println("Nota: " + note);
       
     } finally {
       if (scan != null) {

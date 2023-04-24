@@ -10,25 +10,25 @@ public class BiggerAndAverage {
     Scanner scan = null;
     try {
       scan = new Scanner(System.in);
-      int numero;
-      int maior = 0;
-      int soma = 0;
+      int number;
+      int bigger = 0;
+      int sum = 0;
 
       int count = 0;
       do {
         System.out.println("Número: ");
-        numero = scan.nextInt();
+        number = scan.nextInt();
 
-        soma = soma + numero;
+        sum = sum + number;
 
-        if (numero > maior)
-          maior = numero;
+        if (number > bigger)
+          bigger = number;
 
         count = count + 1;
       } while (count < 5);
 
-      System.out.println("Maior: " + maior);
-      System.out.println("Média: " + (soma / 5));
+      System.out.println("\nMaior: " + bigger);
+      System.out.println("Média: " + (sum / 5));
     } finally {
       if (scan != null) {
         scan.close();

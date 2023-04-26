@@ -1,3 +1,5 @@
+package intermediary.oopSimple;
+
 public class Car {
   String color;
   String model;

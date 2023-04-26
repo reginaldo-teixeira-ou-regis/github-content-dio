@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "java/intermediary/oopSimple",
+        "java/intermediary/oppGetSet",
         "java",
         "src/edu/dio/bootcamp/java"
     ],

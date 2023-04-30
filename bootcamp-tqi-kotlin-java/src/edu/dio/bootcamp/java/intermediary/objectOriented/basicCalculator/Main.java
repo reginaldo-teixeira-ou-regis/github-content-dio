@@ -1,9 +1,9 @@
-package intermediary.objectOrientedProgramming;
+package intermediary.objectOriented.basicCalculator;
 
 public class Main {
   public static void main(String[] args) {
     // Criar uma instância da classe Calculator
-    Calculator calculator = new Calculator();
+    Calculate calculator = new Calculate();
 
     // Chamar os métodos da calculadora
     double num1 = 10.0;

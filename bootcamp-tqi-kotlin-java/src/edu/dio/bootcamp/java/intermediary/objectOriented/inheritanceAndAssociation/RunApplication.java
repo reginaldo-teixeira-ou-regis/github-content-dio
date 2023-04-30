@@ -1,4 +1,4 @@
-package intermediary.oopInheritanceAndAssociation;
+package intermediary.objectOriented.inheritanceAndAssociation;
 
 public class RunApplication {
   public static void main(String[] args) {

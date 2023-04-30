@@ -1,4 +1,4 @@
-package intermediary.objectOrientedProgramming;
+package intermediary.objectOriented.basicCalculator;
 
 public interface MathematicalOperation {
   void sum(double num1, double num2);

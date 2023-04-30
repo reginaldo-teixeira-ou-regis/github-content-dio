@@ -1,4 +1,4 @@
-package intermediary.oopInheritanceAndAssociation;
+package intermediary.objectOriented.inheritanceAndAssociation;
 
 public class Employee1 extends Boss {
   @Override

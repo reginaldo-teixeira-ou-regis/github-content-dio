@@ -1,6 +1,6 @@
-package intermediary.objectOrientedProgramming;
+package intermediary.objectOriented.basicCalculator;
 
-public class Calculator implements MathematicalOperation {
+public class Calculate implements MathematicalOperation {
   @Override
   public void sum(double num1, double num2) {
     System.out.println("Soma: " + (num1 + num2));

@@ -1,4 +1,4 @@
-package intermediary.oppGetSet;
+package intermediary.objectOriented.gettersAndSetters;
 
 public class Car {
   String color;

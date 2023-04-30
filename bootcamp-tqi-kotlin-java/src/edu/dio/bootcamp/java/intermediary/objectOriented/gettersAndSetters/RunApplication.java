@@ -1,4 +1,4 @@
-package intermediary.oppGetSet;
+package intermediary.objectOriented.gettersAndSetters;
 
 public class RunApplication {
   public static void main(String[] args) {

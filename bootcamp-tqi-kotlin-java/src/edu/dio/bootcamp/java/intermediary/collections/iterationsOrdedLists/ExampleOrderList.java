@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.lists;
+package intermediary.collections.iterationsOrdedLists;
 
 // Dadas as seguintes informações sobre meus gatos, crie uma lista
 

@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.singularSet;
+package intermediary.collections.singularSet;
 
 // Dadas as seguintes informações sobre minhas séries favoritas,
 

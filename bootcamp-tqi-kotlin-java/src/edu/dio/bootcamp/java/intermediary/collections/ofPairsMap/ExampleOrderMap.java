@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.ofPairsMap;
+package intermediary.collections.ofPairsMap;
 
 // Dadas as seguintes informações sobre meus livros favoritos e seus autores,
 // crie um dicionário e ordene este dicionário:

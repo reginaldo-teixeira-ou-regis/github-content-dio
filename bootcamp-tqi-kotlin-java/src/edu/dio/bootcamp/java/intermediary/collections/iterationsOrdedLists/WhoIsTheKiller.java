@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.lists;
+package intermediary.collections.iterationsOrdedLists;
 
 import java.util.ArrayList;
 import java.util.Iterator;

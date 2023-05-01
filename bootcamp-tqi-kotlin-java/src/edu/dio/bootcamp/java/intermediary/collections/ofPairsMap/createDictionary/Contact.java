@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.ofPairsMap.createDictionary;
+package intermediary.collections.ofPairsMap.createDictionary;
 
 import java.util.Objects;
 

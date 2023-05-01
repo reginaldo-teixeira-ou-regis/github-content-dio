@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.ofPairsMap;
+package intermediary.collections.ofPairsMap;
 
 import java.util.*;
 

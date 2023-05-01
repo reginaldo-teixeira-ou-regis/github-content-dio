@@ -1,4 +1,4 @@
-package intermediary.collections.iterationsOrded.singularSet;
+package intermediary.collections.singularSet;
 
 import java.util.*;
 

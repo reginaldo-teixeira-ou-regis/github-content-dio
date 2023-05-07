@@ -1,12 +1,18 @@
 {
-    "java.project.sourcePaths": [
-        "java/intermediary/oppGetSet",
-        "java",
-        "src/edu/dio/bootcamp/java"
-    ],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true
+  "java.project.sourcePaths": [
+    "java/src/overloadMethods",
+    "java/src/objectOriented/inheritanceAndAssociation",
+    "java/src/objectOriented/gettersAndSetters",
+    "java/src/objectOriented/basicCalculator",
+    "java/src/loops",
+    "java/src/handlingOfExceptions",
+    "java/src/collections/streams",
+    "java/src/collections/singularSet",
+    "java/src/collections/ofPairsMap/createDictionary",
+    "java/src/collections/ofPairsMap",
+    "java/src/collections/iterationsOrdedLists",
+    "java/src/challenge",
+    "java/src/arrays",
+    "java/src"
+  ]
 }

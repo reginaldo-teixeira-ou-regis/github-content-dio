@@ -5,61 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fcdbce-1e16-4f4e-bb01-0a7a99575b07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/Extensions1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/Extensions2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/HigherOrderFunctions1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/HigherOrderFunctions2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/InfixFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/LambdaFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/OperatorFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/SuspendFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/FilterFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/MapFunction1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/MapFunction2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/Set.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/ConditionalExpressions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/EqualityChecks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/Loops1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/Loops2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/Loops3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/Ranges1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/Ranges2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/Ranges3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/When1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fluxControl/When2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/Functions1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/Functions2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/Generics1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/Generics2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/NullSafety1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/NullSafety2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/Variables.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/DataClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ObjectKeyword1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ObjectKeyword2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ObjectKeyword3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ObjectKeyword4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/SealedClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/scopeFunctions/Also.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/scopeFunctions/Apply.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/scopeFunctions/Let.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/scopeFunctions/Run.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/scopeFunctions/With.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TestsExercises.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -88,15 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.ConditionalExpressionsKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.TestsExercisesKt">
     <configuration name="ConditionalExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fluxControl.ConditionalExpressionsKt" />
       <module name="kotlin" />
@@ -106,13 +54,6 @@
     </configuration>
     <configuration name="EqualityChecksKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fluxControl.EqualityChecksKt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ranges1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fluxControl.Ranges1Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestsExercisesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestsExercisesKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ConditionalExpressionsKt" />
+        <item itemvalue="Kotlin.TestsExercisesKt" />
         <item itemvalue="Kotlin.EqualityChecksKt" />
+        <item itemvalue="Kotlin.ConditionalExpressionsKt" />
         <item itemvalue="Kotlin.Ranges3Kt" />
         <item itemvalue="Kotlin.Ranges2Kt" />
-        <item itemvalue="Kotlin.Ranges1Kt" />
       </list>
     </recent_temporary>
   </component>

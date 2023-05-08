@@ -1,3 +1,5 @@
+package main.java.arrays;
+
 import java.util.Scanner;
 
 // Faça um Programa que leia um vetor de 6 caracteres,

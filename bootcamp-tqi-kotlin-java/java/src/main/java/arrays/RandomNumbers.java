@@ -1,3 +1,5 @@
+package main.java.arrays;
+
 import java.util.Random;
 
 // Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) 

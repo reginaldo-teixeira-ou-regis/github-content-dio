@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fcdbce-1e16-4f4e-bb01-0a7a99575b07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TestsExercises.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TestsExercisesKt">
+  <component name="RunManager" selected="Kotlin.HigherOrderFunctions2Kt">
     <configuration name="ConditionalExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fluxControl.ConditionalExpressionsKt" />
       <module name="kotlin" />
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ranges2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fluxControl.Ranges2Kt" />
+    <configuration name="HigherOrderFunctions2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedFunctions.HigherOrderFunctions2Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.HigherOrderFunctions2Kt" />
         <item itemvalue="Kotlin.TestsExercisesKt" />
         <item itemvalue="Kotlin.EqualityChecksKt" />
         <item itemvalue="Kotlin.ConditionalExpressionsKt" />
         <item itemvalue="Kotlin.Ranges3Kt" />
-        <item itemvalue="Kotlin.Ranges2Kt" />
       </list>
     </recent_temporary>
   </component>

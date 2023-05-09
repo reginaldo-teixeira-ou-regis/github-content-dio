@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b9fcdbce-1e16-4f4e-bb01-0a7a99575b07" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/DataClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/DataClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/SealedClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/SealedClasses.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +47,23 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.HigherOrderFunctions2Kt">
-    <configuration name="ConditionalExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fluxControl.ConditionalExpressionsKt" />
+  <component name="RunManager" selected="Kotlin.SealedClassesKt">
+    <configuration name="DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.DataClassesKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualityChecksKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fluxControl.EqualityChecksKt" />
+    <configuration name="EnumClasses1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.EnumClasses1Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumClasses2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.EnumClasses2Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,15 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ranges3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fluxControl.Ranges3Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestsExercisesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestsExercisesKt" />
+    <configuration name="SealedClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.SealedClassesKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SealedClassesKt" />
+        <item itemvalue="Kotlin.EnumClasses2Kt" />
+        <item itemvalue="Kotlin.EnumClasses1Kt" />
+        <item itemvalue="Kotlin.DataClassesKt" />
         <item itemvalue="Kotlin.HigherOrderFunctions2Kt" />
-        <item itemvalue="Kotlin.TestsExercisesKt" />
-        <item itemvalue="Kotlin.EqualityChecksKt" />
-        <item itemvalue="Kotlin.ConditionalExpressionsKt" />
-        <item itemvalue="Kotlin.Ranges3Kt" />
       </list>
     </recent_temporary>
   </component>

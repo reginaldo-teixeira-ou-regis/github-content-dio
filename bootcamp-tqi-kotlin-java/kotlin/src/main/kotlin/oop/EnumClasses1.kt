@@ -2,6 +2,7 @@ package oop
 
 // Enum tradicional.
 
+// enum class trabalha com estados estaticos constantes
 enum class State {
   IDLE, RUNNING, FINISHED
 }

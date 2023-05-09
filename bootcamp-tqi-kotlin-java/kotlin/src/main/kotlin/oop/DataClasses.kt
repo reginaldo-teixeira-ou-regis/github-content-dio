@@ -2,6 +2,7 @@ package oop
 
 // Classes de Dados.
 
+// data class armazena valores
 data class User(val name: String, val id: Int) {
   override fun equals(other: Any?) =
     other is User && other.id == this.id
@@ -22,11 +23,14 @@ fun main() {
   println(thirdUser.hashCode())
 
   // copy() function
+  // copia é uma nova instancia
   println(user.copy())
   println(user === user.copy())
+  // copiando, mas mudando atributos especificos
   println(user.copy("Max"))
   println(user.copy(id = 3))
 
+  // outra forma de imprimir os atributos com a função component1()
   println("name = ${user.component1()}")
   println("id = ${user.component2()}")
 }

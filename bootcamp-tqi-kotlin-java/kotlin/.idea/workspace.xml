@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fcdbce-1e16-4f4e-bb01-0a7a99575b07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/DateWrittenOut.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/GrowthRate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/RomanNumeral.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/SalaryCalculation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/StudentsFinalAverage.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/DataClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/DataClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/SuspendFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/SuspendFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/SealedClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/SealedClasses.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,45 +43,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/reginaldoteixeira/github-directory/github-content-dio/bootcamp-tqi-kotlin-java/kotlin"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.SealedClassesKt">
-    <configuration name="DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.DataClassesKt" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.GrowthRateKt">
+    <configuration name="DateWrittenOutKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.DateWrittenOutKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumClasses1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.EnumClasses1Kt" />
+    <configuration name="GrowthRateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.GrowthRateKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumClasses2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.EnumClasses2Kt" />
+    <configuration name="RomanNumeralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.RomanNumeralKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HigherOrderFunctions2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedFunctions.HigherOrderFunctions2Kt" />
+    <configuration name="SalaryCalculationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.SalaryCalculationKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SealedClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.SealedClassesKt" />
+    <configuration name="StudentsFinalAverageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.StudentsFinalAverageKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SealedClassesKt" />
-        <item itemvalue="Kotlin.EnumClasses2Kt" />
-        <item itemvalue="Kotlin.EnumClasses1Kt" />
-        <item itemvalue="Kotlin.DataClassesKt" />
-        <item itemvalue="Kotlin.HigherOrderFunctions2Kt" />
+        <item itemvalue="Kotlin.GrowthRateKt" />
+        <item itemvalue="Kotlin.SalaryCalculationKt" />
+        <item itemvalue="Kotlin.RomanNumeralKt" />
+        <item itemvalue="Kotlin.StudentsFinalAverageKt" />
+        <item itemvalue="Kotlin.DateWrittenOutKt (1)" />
       </list>
     </recent_temporary>
   </component>

@@ -4,7 +4,7 @@ package advancedFunctions
 
 //import kotlinx.coroutines.*
 
-//fun main() = runBlocking {
+//fun challenge.main() = runBlocking {
 //  doWorld()
 //}
 

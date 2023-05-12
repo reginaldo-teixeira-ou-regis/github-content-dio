@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9fcdbce-1e16-4f4e-bb01-0a7a99575b07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/DateWrittenOut.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/GrowthRate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/RomanNumeral.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/SalaryCalculation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/challenge/StudentsFinalAverage.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/SuspendFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/advancedFunctions/SuspendFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/EnumClasses1.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b9fcdbce-1e16-4f4e-bb01-0a7a99575b07" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

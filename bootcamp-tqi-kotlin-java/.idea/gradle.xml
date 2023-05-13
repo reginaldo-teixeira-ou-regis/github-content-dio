@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/1-TestingGradlew" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/1-TestingGradlew" />
+            <option value="$PROJECT_DIR$/GradleCourse/1-TestingGradlew/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/2-Dependencies" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/2-Dependencies" />
+            <option value="$PROJECT_DIR$/GradleCourse/2-Dependencies/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/3-Buildscript" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/3-Buildscript" />
+            <option value="$PROJECT_DIR$/GradleCourse/3-Buildscript/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/4-Application-Plugin" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/4-Application-Plugin" />
+            <option value="$PROJECT_DIR$/GradleCourse/4-Application-Plugin/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/5-Java-Project" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/5-Java-Project" />
+            <option value="$PROJECT_DIR$/GradleCourse/5-Java-Project/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/6-Multi-Modules" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/6-Multi-Modules" />
+            <option value="$PROJECT_DIR$/GradleCourse/6-Multi-Modules/checkers" />
+            <option value="$PROJECT_DIR$/GradleCourse/6-Multi-Modules/chess" />
+            <option value="$PROJECT_DIR$/GradleCourse/6-Multi-Modules/games" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/7-First-Tasks" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/7-First-Tasks" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/8-Tasks-Dependencies" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/8-Tasks-Dependencies" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleCourse/9-Task-Types" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleCourse/9-Task-Types" />
+            <option value="$PROJECT_DIR$/GradleCourse/9-Task-Types/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

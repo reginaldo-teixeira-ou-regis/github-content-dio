@@ -11,7 +11,7 @@ public class Main {
         String fileName = "newfile.txt";
         File file = new File(fileName);
         
-        String content = "text content 23";
+        String content = "text content";
         try {
             Path path = file.toPath();
             Files.write(path, content.getBytes());

@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
